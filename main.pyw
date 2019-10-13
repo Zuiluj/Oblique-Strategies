@@ -1,4 +1,3 @@
-#!python3.7.2
 # main.py - main class, initializes everything
 
 from PyQt5.QtWidgets import QMainWindow, QPushButton, QBoxLayout, QLabel, QApplication
